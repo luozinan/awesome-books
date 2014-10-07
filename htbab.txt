@@ -1,4 +1,6 @@
 How to Build a Brain
+
+modified by lily
 --------------------
 
 Author: Chris Eliasmith
